@@ -1,0 +1,6 @@
+coverage
+interrogate
+numpy==1.21.6
+opencv-python-headless
+pre-commit
+pytest
